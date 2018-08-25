@@ -1,0 +1,74 @@
+[
+  {
+    "remote": "github",
+    "repository": "CarbonROM/android_device_sony_shinano-common",
+    "target_path": "device/sony/shinano-common",
+    "revision": "cr-6.1"
+  },
+  {
+    "remote": "github",
+    "repository": "CarbonROM/android_device_sony_msm8974-common",
+    "target_path": "device/sony/msm8974-common",
+    "revision": "cr-6.1"
+  },
+  {
+    "remote": "github",
+    "repository": "CarbonROM/android_kernel_sony_msm8974",
+    "target_path": "kernel/sony/msm8974",
+    "revision": "cr-6.1"
+  },
+  {
+    "remote": "github",
+    "repository": "omnirom/android_hardware_broadcom_fm",
+    "target_path": "hardware/broadcom/fm",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "omnirom/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "revision": "android-8.1"
+  },
+  {
+	"remote": "github",
+    "repository": "rcstar6696/packages_apps_ancquicksettings",
+    "target_path": "packages/apps/ANCQuickSettings",
+    "revision": "cr-6.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_sony_common",
+    "target_path": "device/sony/common-caf",
+    "revision": "lineage-15.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "lineage-15.1"
+  },
+  {
+    "remote": "github",
+    "repository": "omnirom/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision": "android-8.1"
+  },
+  {
+    "remote":   "github",
+    "repository":  "omnirom/android_hardware_sony_location",
+    "target_path": "hardware/sony/location",
+    "revision":    "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "omnirom/android_hardware_sony_macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup",
+    "revision": "android-8.1"
+  },
+  {
+    "remote": "github",
+    "repository": "obsd39/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "revision": "cr-6.1"
+  }
+]
