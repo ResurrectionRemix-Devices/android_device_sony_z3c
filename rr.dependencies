@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "CarbonROM/android_device_sony_msm8974-common",
+    "repository": "ResurrectionRemix-Devices/android_device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch": "cr-6.1"
+    "branch": "oreo"
   },
   {
     "remote": "github",
